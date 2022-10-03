@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    max-width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 1%;
+    background-color: lightgrey;
+    color: rgb(4, 177, 111);
+}
+
+#flist {
+    width: 150px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
